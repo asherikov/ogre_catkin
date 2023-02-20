@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package format="2">
+    <name>ogre</name>
+    <version>13.6.2</version>
+    <description>The OGRE package</description>
+
+    <maintainer email="alexander@sherikov.net">Alexander Sherikov</maintainer>
+
+    <license>MIT</license>
+
+    <buildtool_depend>cmake</buildtool_depend>
+
+    <!-- libxrandr-dev libsdl2-dev -->
+    <depend>libxrandr</depend>
+    <depend>sdl2</depend>
+</package>
