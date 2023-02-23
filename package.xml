@@ -13,4 +13,5 @@
     <!-- libxrandr-dev libsdl2-dev -->
     <depend>libxrandr</depend>
     <depend>sdl2</depend>
+    <depend>libx11-dev</depend>
 </package>
