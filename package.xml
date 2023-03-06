@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="2">
-    <name>ogre</name>
+    <name>ogre_catkin</name>
     <version>13.6.2</version>
     <description>The OGRE package</description>
 
@@ -14,4 +14,7 @@
     <depend>libxrandr</depend>
     <depend>sdl2</depend>
     <depend>libx11-dev</depend>
+    <depend>assimp-dev</depend>
+    <depend>pugixml-dev</depend>
+    <depend>libfreetype6-dev</depend>
 </package>
